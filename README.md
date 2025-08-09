@@ -23,7 +23,7 @@ It allows researchers and network owners to scan, monitor, and test their wirele
 ### 1️⃣ Clone the repository
 <pre>
 <code>
-git clone https://github.com/username/NetFang.git
+git clone https://github.com/mohamedmosamir/netFang.git
 </code>
 </pre>
 <a href="#" onclick="navigator.clipboard.writeText('git clone https://github.com/mohamedmosamir/netFang.git')">📋 Copy</a>
